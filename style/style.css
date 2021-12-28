@@ -2,4 +2,25 @@
 * {
   font-family: 'Lato', sans-serif;
 }
+
+.container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  background-color: lightgreen;
+}
+
+#top-layout {
+  width: 100vw;
+  height: 50vh;
+  background-color: lightpink;
+}
+
+#bottom-layout {
+  width: 100%;
+  height: 50%;
+  background-color: lightskyblue;
+}
 /*# sourceMappingURL=style.css.map */
