@@ -1,0 +1,8 @@
+#excluding node packages files
+/node_modules
+#excluding assets 
+/assets
+#excluding some other files such as .pdf && .txt files
+*.pdf
+*.txt
+
